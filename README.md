@@ -1,6 +1,4 @@
 # Carbon-Hacktivists
-Got it 👍 You need a **professional, clean, and precise README** that looks hackathon-ready without being too long. Here’s a polished version you can directly use as your `README.md`:
-
 ---
 
 # 🌱 Carbon Coin – Net Zero Campus App
